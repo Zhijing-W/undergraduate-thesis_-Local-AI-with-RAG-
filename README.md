@@ -2,7 +2,7 @@
 
 ## Quick Start
 ### Using Google Colab 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13uG_vrM-Qm189Aslaa3pH2eKWoJ8Ut47)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rsh4PNzoTi1JMrh8aIKQWECCb3JJovmy?usp=sharing)  
 
 Click the Colab badge above to run the complete pipeline including:
 1. **Input your question**
