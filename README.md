@@ -11,7 +11,7 @@ Click the Colab badge above to run the complete pipeline including:
    - BM25-Based Text Retrieval
    - Vector-Based Semantic Retrieval  
    - Reciprocal Rank Fusion (RRF)
-4. **Deploy** 
+4. **Locally deploy AI models by Ollama** 
 5. **Answer Quality Evaluation**
 
 
