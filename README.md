@@ -5,21 +5,23 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13uG_vrM-Qm189Aslaa3pH2eKWoJ8Ut47)  
 
 Click the Colab badge above to run the complete pipeline including:
-1. Input your question
-2. Dataset download from huggingface
-3. Using RAG (including BM25-Based Text Retrieval, Vector-Based Semantic Retrieval, and Reciprocal Rank Fusion (RRF))
-4. Deploy ollama
-5. Answer Quality Evaluation
+1. **Input your question**
+2. **Dataset download** 
+3. **RAG Framework**:
+   - BM25-Based Text Retrieval
+   - Vector-Based Semantic Retrieval  
+   - Reciprocal Rank Fusion (RRF)
+4. **Deploy** 
+5. **Answer Quality Evaluation**
 
-## Download Models and Datasets
+
+### Download Models and Datasets
 
 **Embedding Model:** `BAAI/bge-large-zh-v1.5`  
 [![HuggingFace Model](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-blue)](https://huggingface.co/BAAI/bge-large-zh-v1.5)
 
 **Dataset:** `Huatuo26M-Lite`  
 [![HuggingFace Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-orange)](https://huggingface.co/datasets/FreedomIntelligence/Huatuo26M-Lite)
-
-
 
 
 ## Description
